@@ -1,9 +1,9 @@
 require_relative 'csv_writer'
 
-ShowStruct = Struct.new(:date, :genres, :score, :title, :url, :votes)
+ShowStruct = Struct.new(:country, :date, :genres, :score, :title, :url, :votes)
 
 class Show
-  attr_reader :section
+  attr_reader :country, :section
 
   DATE_PATH = 'span.lister-item-year'.freeze
   GENRES_PATH = 'span.genre'.freeze
@@ -11,12 +11,13 @@ class Show
   TITLE_PATH = 'h3.lister-item-header a'.freeze
   VOTES_PATH = 'p.sort-num_votes-visible span[name="nv"]'.freeze
 
-  def initialize(section)
+  def initialize(section, country: nil)
+    @country = country
     @section = section
   end
 
   def struct
-    ShowStruct.new(date, genres, score, title, url, votes)
+    ShowStruct.new(country, date, genres, score, title, url, votes)
   end
 
   def date
