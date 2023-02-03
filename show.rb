@@ -22,7 +22,7 @@ class Show
   def date
     datestring = section.css(DATE_PATH).text
     dates = datestring.scan(/\d{4}/).map(&:to_i)
-    
+
     return Range.new(*dates) if dates.size == 2
 
     Range.new(dates.first, nil)
