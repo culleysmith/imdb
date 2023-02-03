@@ -16,9 +16,15 @@ class Show
     @section = section
   end
 
+  def add_row
+    CsvWriter.add_row(struct)
+  end
+
   def struct
     ShowStruct.new(country, date, genres, score, title, url, votes)
   end
+
+  private
 
   def date
     datestring = section.css(DATE_PATH).text
@@ -49,10 +55,6 @@ class Show
   end
 
   def votes
-    section.css(VOTES_PATH).attribute('data-value').value.to_i
-  end
-
-  def add_row
-    CsvWriter.add_row(struct)
+    section.css(VOTES_PATH).attribute('data-value')&.value.to_i
   end
 end

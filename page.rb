@@ -16,10 +16,12 @@ class Page
 
     @_shows ||= begin
                   doc.css(SHOWS_PATH).map do |section|
-                    Show.new(section, country: country).struct
+                    Show.new(section, country: country)
                   end
                 end
   end
+
+  private
 
   def body
     @_body ||= Faraday.get(url)&.body

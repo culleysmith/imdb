@@ -21,7 +21,7 @@ class ShowQuery
           row[field] == term.to_s
         end
       end
-    end.map { |row| ShowStruct.new(*row.fields.reverse) }
+    end.map { |row| ShowStruct.new(*row.fields) }
   end
 
   def rows

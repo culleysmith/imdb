@@ -18,6 +18,6 @@ class CsvWriter
   end
 
   def row
-    show_struct.values.reverse
+    show_struct.values
   end
 end
