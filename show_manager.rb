@@ -1,7 +1,6 @@
 require_relative 'page'
 
 class ShowManager
-
   INCREMENT = 50
   START = 1
 

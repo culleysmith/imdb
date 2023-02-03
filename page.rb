@@ -1,6 +1,5 @@
 require 'faraday'
 require 'nokogiri'
-require_relative 'show'
 
 class Page
   attr_reader :url

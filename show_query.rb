@@ -1,10 +1,8 @@
 require 'csv'
 require_relative 'show'
 
-class Show
+class ShowQuery
   attr_reader :kwargs
-
-  SHOWS_FILE = 'shows.csv'.freeze
 
   def self.search(**kwargs)
     new(**kwargs).search
@@ -27,6 +25,6 @@ class Show
   end
 
   def rows
-    @_rows ||= CSV.read(CSV_FILE, headers: true, header_converters: :symbol)
+    @_rows ||= CSV.read(SHOWS_FILE, headers: true, header_converters: :symbol)
   end
 end

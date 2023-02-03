@@ -1,8 +1,6 @@
 require 'csv'
 
 class CsvWriter
-  SHOWS_FILE = 'shows.csv'.freeze
-
   attr_reader :show_struct
 
   def self.add_row(show_struct)
