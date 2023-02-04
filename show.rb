@@ -11,7 +11,7 @@ class Show
   TITLE_PATH = 'h3.lister-item-header a'.freeze
   VOTES_PATH = 'p.sort-num_votes-visible span[name="nv"]'.freeze
 
-  def initialize(section, country: nil)
+  def initialize(section, country)
     @country = country
     @section = section
   end
@@ -21,7 +21,7 @@ class Show
   end
 
   def struct
-    ShowStruct.new(country, date, genres, score, title, url, votes)
+    ShowStruct.new(country.name, date, genres, score, title, url, votes)
   end
 
   private

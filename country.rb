@@ -1,5 +1,9 @@
-class CountryCodes
-  attr_reader :abbr, :name
+class Country
+  attr_reader :abbr, :kwargs, :name
+
+  def self.find_by(**kwargs)
+    new(**kwargs).find_by
+  end
 
   def self.all(**kwargs)
     new(**kwargs).all
@@ -8,6 +12,7 @@ class CountryCodes
   def initialize(**kwargs)
     @abbr = kwargs[:abbr]
     @name = kwargs[:name]
+    @kwargs = kwargs
   end
 
   def all
@@ -259,5 +264,11 @@ class CountryCodes
       self.class.new(abbr: 'zm', name: 'Zambia'),
       self.class.new(abbr: 'zw', name: 'Zimbabwe')
     ]
+  end
+
+  def find_by
+    all.find do |item|
+      item.public_send(kwargs.keys.first) == kwargs.values.first
+    end
   end
 end

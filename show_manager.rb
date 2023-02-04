@@ -5,20 +5,20 @@ class ShowManager
   MAX_INCREMENT = 500
   START = 1
 
-  attr_reader :country_code
+  attr_reader :country
 
-  def self.run(country_code)
-    new(country_code).run
+  def self.run(country)
+    new(country).run
   end
 
-  def initialize(country_code)
-    @country_code = country_code
+  def initialize(country)
+    @country = country
     @increment = 0
   end
 
   def run
     loop do
-      page = Page.new(url)
+      page = Page.new(url, country)
 
       break if reached_max?
 
@@ -42,6 +42,6 @@ class ShowManager
 
   def url
     start = START + @increment
-    "https://www.imdb.com/search/title/?title_type=tv_series&countries=#{country_code}&start=#{start}"
+    "https://www.imdb.com/search/title/?title_type=tv_series&countries=#{country.abbr}&start=#{start}"
   end
 end
