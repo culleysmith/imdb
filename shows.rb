@@ -1,5 +1,3 @@
-require 'uri'
-
 class ShowsHelper
   def self.date_range(dates)
     start, finish = dates.split('..').map(&:to_i)
@@ -18,7 +16,10 @@ Shows = CSV.read(SHOWS_FILE, headers: true, header_converters: :symbol).map do |
     ShowsHelper.genres(row[:genres]),
     row[:score].to_f,
     row[:title],
-    URI.parse(row[:url]),
+    row[:url],
     row[:votes].to_i
   )
-end.freeze
+end.sort_by { |show| [show.votes, show.score] }
+  .uniq(&:url)
+  .reverse
+  .freeze
