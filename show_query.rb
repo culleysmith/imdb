@@ -24,6 +24,8 @@ class ShowQuery
     end.map { |row| ShowStruct.new(*row.fields) }
   end
 
+  private
+
   def rows
     @_rows ||= CSV.read(SHOWS_FILE, headers: true, header_converters: :symbol)
   end
