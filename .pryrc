@@ -9,6 +9,7 @@ load 'show_query.rb'
 load 'show_manager.rb'
 
 SHOWS_FILE = 'shows.csv'.freeze
+SHOWS_DATA = CSV.read(SHOWS_FILE, headers: true, header_converters: :symbol).freeze
 
 def reload!
   load 'country.rb'

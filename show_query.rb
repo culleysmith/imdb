@@ -13,7 +13,7 @@ class ShowQuery
   end
 
   def search
-    rows.select do |row|
+    SHOWS_DATA.select do |row|
       kwargs.all? do |field, term|
         if term.is_a?(Array)
           term.map(&:to_s).include?(row[field])
@@ -22,11 +22,5 @@ class ShowQuery
         end
       end
     end.map { |row| ShowStruct.new(*row.fields) }
-  end
-
-  private
-
-  def rows
-    @_rows ||= CSV.read(SHOWS_FILE, headers: true, header_converters: :symbol)
   end
 end
