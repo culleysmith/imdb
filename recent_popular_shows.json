@@ -32,14 +32,6 @@
     "votes": 1004908
   },
   {
-    "date": "2010..2017",
-    "genres": "Crime, Drama, Mystery",
-    "score": 9.1,
-    "title": "Sherlock",
-    "url": "https://imdb.com/title/tt1475582/",
-    "votes": 934842
-  },
-  {
     "date": "2007..2019",
     "genres": "Comedy, Romance",
     "score": 8.2,
@@ -78,14 +70,6 @@
     "title": "Better Call Saul",
     "url": "https://imdb.com/title/tt3032476/",
     "votes": 544521
-  },
-  {
-    "date": "2005..2017",
-    "genres": "Action, Crime, Drama",
-    "score": 8.3,
-    "title": "Prison Break",
-    "url": "https://imdb.com/title/tt0455275/",
-    "votes": 541715
   },
   {
     "date": "2013..2020",
@@ -608,28 +592,12 @@
     "votes": 116253
   },
   {
-    "date": "2013..2017",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.4,
-    "title": "Broadchurch",
-    "url": "https://imdb.com/title/tt2249364/",
-    "votes": 115573
-  },
-  {
     "date": "2022..",
     "genres": "Action, Adventure, Comedy",
     "score": 8.3,
     "title": "Peacemaker",
     "url": "https://imdb.com/title/tt13146488/",
     "votes": 114462
-  },
-  {
-    "date": "2013..2017",
-    "genres": "Drama, Fi, Sci, Thriller",
-    "score": 8.3,
-    "title": "Orphan Black",
-    "url": "https://imdb.com/title/tt2234222/",
-    "votes": 112188
   },
   {
     "date": "1999..",
@@ -648,14 +616,6 @@
     "votes": 107222
   },
   {
-    "date": "2014..2017",
-    "genres": "Action, Adventure, Drama",
-    "score": 8.2,
-    "title": "Black Sails",
-    "url": "https://imdb.com/title/tt2375692/",
-    "votes": 106485
-  },
-  {
     "date": "2019..",
     "genres": "Drama",
     "score": 8.3,
@@ -670,14 +630,6 @@
     "title": "The Americans",
     "url": "https://imdb.com/title/tt2149175/",
     "votes": 101540
-  },
-  {
-    "date": "2014..2017",
-    "genres": "Drama, Fantasy, Mystery",
-    "score": 8.3,
-    "title": "The Leftovers",
-    "url": "https://imdb.com/title/tt2699128/",
-    "votes": 100944
   },
   {
     "date": "2017..",
@@ -992,14 +944,6 @@
     "votes": 38200
   },
   {
-    "date": "2012..2017",
-    "genres": "Action, Crime, Drama",
-    "score": 8.3,
-    "title": "Longmire",
-    "url": "https://imdb.com/title/tt1836037/",
-    "votes": 36594
-  },
-  {
     "date": "2018..2019",
     "genres": "Crime, Drama, Thriller",
     "score": 8.0,
@@ -1014,14 +958,6 @@
     "title": "Red Dwarf",
     "url": "https://imdb.com/title/tt0094535/",
     "votes": 35590
-  },
-  {
-    "date": "2015..2017",
-    "genres": "Drama, Romance",
-    "score": 8.6,
-    "title": "Skam",
-    "url": "https://imdb.com/title/tt5288312/",
-    "votes": 35251
   },
   {
     "date": "2021..",
@@ -1054,14 +990,6 @@
     "title": "The Righteous Gemstones",
     "url": "https://imdb.com/title/tt8634332/",
     "votes": 33889
-  },
-  {
-    "date": "2011..2017",
-    "genres": "Comedy, Short",
-    "score": 9.2,
-    "title": "The Filthy Frank Show",
-    "url": "https://imdb.com/title/tt4202274/",
-    "votes": 33100
   },
   {
     "date": "2022..",
@@ -1288,14 +1216,6 @@
     "votes": 22737
   },
   {
-    "date": "2016..2017",
-    "genres": "Comedy, Drama, Fantasy",
-    "score": 8.6,
-    "title": "Guardian: The Lonely and Great God",
-    "url": "https://imdb.com/title/tt5994364/",
-    "votes": 22401
-  },
-  {
     "date": "2021..",
     "genres": "Crime, Drama",
     "score": 8.2,
@@ -1414,14 +1334,6 @@
     "title": "Bosch: Legacy",
     "url": "https://imdb.com/title/tt14168162/",
     "votes": 18977
-  },
-  {
-    "date": "2016..2017",
-    "genres": "Action, Crime, Drama",
-    "score": 8.1,
-    "title": "Içerde",
-    "url": "https://imdb.com/title/tt6051216/",
-    "votes": 18828
   },
   {
     "date": "2021..",
@@ -1656,14 +1568,6 @@
     "votes": 12209
   },
   {
-    "date": "1999..2017",
-    "genres": "Comedy, Horror",
-    "score": 8.4,
-    "title": "The League of Gentlemen",
-    "url": "https://imdb.com/title/tt0184135/",
-    "votes": 11557
-  },
-  {
     "date": "2016..",
     "genres": "Action, Comedy, Drama",
     "score": 8.0,
@@ -1734,557 +1638,5 @@
     "title": "Brassic",
     "url": "https://imdb.com/title/tt9174582/",
     "votes": 10039
-  },
-  {
-    "date": "2016..2017",
-    "genres": "Comedy, Romance",
-    "score": 8.4,
-    "title": "Weightlifting Fairy Kim Bok-Joo",
-    "url": "https://imdb.com/title/tt6157148/",
-    "votes": 9999
-  },
-  {
-    "date": "2021..",
-    "genres": "Drama",
-    "score": 9.0,
-    "title": "Harga",
-    "url": "https://imdb.com/title/tt11992526/",
-    "votes": 9967
-  },
-  {
-    "date": "2016..2017",
-    "genres": "Comedy, Drama, Fantasy",
-    "score": 8.1,
-    "title": "Legend of the Blue Sea",
-    "url": "https://imdb.com/title/tt5766194/",
-    "votes": 9955
-  },
-  {
-    "date": "2015..2017",
-    "genres": "Action, Adventure, Comedy",
-    "score": 8.1,
-    "title": "Poyraz Karayel",
-    "url": "https://imdb.com/title/tt4343334/",
-    "votes": 9513
-  },
-  {
-    "date": "2012..",
-    "genres": "Comedy",
-    "score": 8.2,
-    "title": "Toast of London",
-    "url": "https://imdb.com/title/tt2432604/",
-    "votes": 9505
-  },
-  {
-    "date": "2020..",
-    "genres": "Crime, Mystery, Romance",
-    "score": 8.6,
-    "title": "Flower of Evil",
-    "url": "https://imdb.com/title/tt11691684/",
-    "votes": 9387
-  },
-  {
-    "date": "2012..2020",
-    "genres": "Comedy, Drama",
-    "score": 8.1,
-    "title": "Rita",
-    "url": "https://imdb.com/title/tt1973692/",
-    "votes": 9373
-  },
-  {
-    "date": "2016..",
-    "genres": "Action, Drama, Fantasy",
-    "score": 8.6,
-    "title": "Moon Lovers: Scarlet Heart Ryeo",
-    "url": "https://imdb.com/title/tt5320412/",
-    "votes": 9344
-  },
-  {
-    "date": "2022..",
-    "genres": "Drama",
-    "score": 8.4,
-    "title": "Pachinko",
-    "url": "https://imdb.com/title/tt8888462/",
-    "votes": 9185
-  },
-  {
-    "date": "2019..",
-    "genres": "Action, Mystery, Thriller",
-    "score": 8.1,
-    "title": "Vagabond",
-    "url": "https://imdb.com/title/tt8523042/",
-    "votes": 9052
-  },
-  {
-    "date": "2015..2018",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.6,
-    "title": "Merlí",
-    "url": "https://imdb.com/title/tt4580372/",
-    "votes": 8984
-  },
-  {
-    "date": "2007..",
-    "genres": "Comedy, Game, Show",
-    "score": 8.2,
-    "title": "Would I Lie to You?",
-    "url": "https://imdb.com/title/tt1055238/",
-    "votes": 8893
-  },
-  {
-    "date": "2017..",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.5,
-    "title": "Stranger",
-    "url": "https://imdb.com/title/tt6461346/",
-    "votes": 8763
-  },
-  {
-    "date": "2022..",
-    "genres": "Drama, Romance",
-    "score": 8.6,
-    "title": "Twenty Five Twenty One",
-    "url": "https://imdb.com/title/tt17513352/",
-    "votes": 8550
-  },
-  {
-    "date": "2022..",
-    "genres": "Action, Drama, Fantasy",
-    "score": 8.8,
-    "title": "Alchemy of Souls",
-    "url": "https://imdb.com/title/tt20859920/",
-    "votes": 8520
-  },
-  {
-    "date": "2017..2019",
-    "genres": "Crime, Drama",
-    "score": 8.2,
-    "title": "4 Blocks",
-    "url": "https://imdb.com/title/tt5754602/",
-    "votes": 8380
-  },
-  {
-    "date": "2020..2021",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.0,
-    "title": "True Beauty",
-    "url": "https://imdb.com/title/tt13274038/",
-    "votes": 8332
-  },
-  {
-    "date": "2002..2019",
-    "genres": "Comedy",
-    "score": 8.9,
-    "title": "Still Game",
-    "url": "https://imdb.com/title/tt0281491/",
-    "votes": 8254
-  },
-  {
-    "date": "2018..",
-    "genres": "Action, Drama, Romance",
-    "score": 8.7,
-    "title": "Mr. Sunshine",
-    "url": "https://imdb.com/title/tt7094780/",
-    "votes": 8251
-  },
-  {
-    "date": "2015..2018",
-    "genres": "Action, Crime, Drama",
-    "score": 8.7,
-    "title": "Aranyélet",
-    "url": "https://imdb.com/title/tt5099020/",
-    "votes": 8235
-  },
-  {
-    "date": "2017..",
-    "genres": "Comedy",
-    "score": 8.6,
-    "title": "Meme Review",
-    "url": "https://imdb.com/title/tt9621106/",
-    "votes": 8126
-  },
-  {
-    "date": "2010..2018",
-    "genres": "Comedy, Drama",
-    "score": 8.5,
-    "title": "Rake",
-    "url": "https://imdb.com/title/tt1587000/",
-    "votes": 8121
-  },
-  {
-    "date": "2017..",
-    "genres": "Comedy, Drama, Fantasy",
-    "score": 8.3,
-    "title": "While You Were Sleeping",
-    "url": "https://imdb.com/title/tt6256484/",
-    "votes": 7828
-  },
-  {
-    "date": "2016..",
-    "genres": "Crime, Drama, Fantasy",
-    "score": 8.5,
-    "title": "Signal",
-    "url": "https://imdb.com/title/tt5332206/",
-    "votes": 7544
-  },
-  {
-    "date": "2007..2017",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.1,
-    "title": "Inspector George Gently",
-    "url": "https://imdb.com/title/tt1430509/",
-    "votes": 7513
-  },
-  {
-    "date": "2012..2020",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.4,
-    "title": "Last Tango in Halifax",
-    "url": "https://imdb.com/title/tt2216156/",
-    "votes": 7510
-  },
-  {
-    "date": "2018..",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.0,
-    "title": "Pagan Peak",
-    "url": "https://imdb.com/title/tt6905756/",
-    "votes": 7426
-  },
-  {
-    "date": "2011..2018",
-    "genres": "Comedy, Crime",
-    "score": 8.5,
-    "title": "Der Tatortreiniger",
-    "url": "https://imdb.com/title/tt2147995/",
-    "votes": 7396
-  },
-  {
-    "date": "2010..",
-    "genres": "Comedy, Drama",
-    "score": 8.1,
-    "title": "Solsidan",
-    "url": "https://imdb.com/title/tt1593584/",
-    "votes": 7318
-  },
-  {
-    "date": "2021..",
-    "genres": "Action, Crime, Mystery",
-    "score": 8.7,
-    "title": "Mouse",
-    "url": "https://imdb.com/title/tt13634792/",
-    "votes": 7212
-  },
-  {
-    "date": "2020..2021",
-    "genres": "Action, Fantasy, Horror",
-    "score": 8.1,
-    "title": "The Uncanny Counter",
-    "url": "https://imdb.com/title/tt13273826/",
-    "votes": 7159
-  },
-  {
-    "date": "2018..",
-    "genres": "Drama, Family",
-    "score": 9.1,
-    "title": "My Mister",
-    "url": "https://imdb.com/title/tt7923710/",
-    "votes": 7138
-  },
-  {
-    "date": "2020..2022",
-    "genres": "Comedy, Drama",
-    "score": 8.5,
-    "title": "Staged",
-    "url": "https://imdb.com/title/tt12369754/",
-    "votes": 7092
-  },
-  {
-    "date": "2017..2018",
-    "genres": "Action, Drama, Romance",
-    "score": 8.0,
-    "title": "Price of Passion",
-    "url": "https://imdb.com/title/tt7550774/",
-    "votes": 7061
-  },
-  {
-    "date": "2019..",
-    "genres": "Action, Adventure, Drama",
-    "score": 8.8,
-    "title": "The Untamed",
-    "url": "https://imdb.com/title/tt10554898/",
-    "votes": 6992
-  },
-  {
-    "date": "2017..",
-    "genres": "Comedy, Romance",
-    "score": 8.1,
-    "title": "Fight for My Way",
-    "url": "https://imdb.com/title/tt6824234/",
-    "votes": 6936
-  },
-  {
-    "date": "2018..",
-    "genres": "Drama, Romance",
-    "score": 8.1,
-    "title": "Something in the Rain",
-    "url": "https://imdb.com/title/tt8078816/",
-    "votes": 6917
-  },
-  {
-    "date": "2021..",
-    "genres": "Drama",
-    "score": 8.5,
-    "title": "Move to Heaven",
-    "url": "https://imdb.com/title/tt11052470/",
-    "votes": 6784
-  },
-  {
-    "date": "2021..",
-    "genres": "Drama, Romance",
-    "score": 8.2,
-    "title": "Our Beloved Summer",
-    "url": "https://imdb.com/title/tt15026724/",
-    "votes": 6784
-  },
-  {
-    "date": "2017..2020",
-    "genres": "Comedy",
-    "score": 8.5,
-    "title": "This Country",
-    "url": "https://imdb.com/title/tt6583806/",
-    "votes": 6689
-  },
-  {
-    "date": "2005..2020",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.5,
-    "title": "Spiral",
-    "url": "https://imdb.com/title/tt0477507/",
-    "votes": 6315
-  },
-  {
-    "date": "2012..",
-    "genres": "Comedy, Game, Show",
-    "score": 8.2,
-    "title": "8 Out of 10 Cats Does Countdown",
-    "url": "https://imdb.com/title/tt2345459/",
-    "votes": 6138
-  },
-  {
-    "date": "2021..",
-    "genres": "Action, Crime, Drama",
-    "score": 8.2,
-    "title": "D.P.",
-    "url": "https://imdb.com/title/tt13024974/",
-    "votes": 6106
-  },
-  {
-    "date": "2011..",
-    "genres": "Action, Romance, Thriller",
-    "score": 8.1,
-    "title": "City Hunter",
-    "url": "https://imdb.com/title/tt1982229/",
-    "votes": 6106
-  },
-  {
-    "date": "2019..",
-    "genres": "Romance",
-    "score": 8.0,
-    "title": "Romance Is a Bonus Book",
-    "url": "https://imdb.com/title/tt9130542/",
-    "votes": 6059
-  },
-  {
-    "date": "2016..2018",
-    "genres": "Comedy, Drama",
-    "score": 8.1,
-    "title": "Flowers",
-    "url": "https://imdb.com/title/tt5619658/",
-    "votes": 6015
-  },
-  {
-    "date": "2022..",
-    "genres": "Drama, Mystery, Thriller",
-    "score": 8.0,
-    "title": "The Glory",
-    "url": "https://imdb.com/title/tt21344706/",
-    "votes": 6007
-  },
-  {
-    "date": "2012..",
-    "genres": "Action, Crime, Drama",
-    "score": 8.3,
-    "title": "Suskunlar",
-    "url": "https://imdb.com/title/tt2275071/",
-    "votes": 5932
-  },
-  {
-    "date": "2017..2018",
-    "genres": "Comedy, Fi, Romance, Sci",
-    "score": 8.0,
-    "title": "I'm Not a Robot",
-    "url": "https://imdb.com/title/tt7521778/",
-    "votes": 5888
-  },
-  {
-    "date": "2020..2021",
-    "genres": "Comedy, Drama",
-    "score": 8.8,
-    "title": "Hospital Playlist",
-    "url": "https://imdb.com/title/tt11769304/",
-    "votes": 5871
-  },
-  {
-    "date": "2015..2019",
-    "genres": "Comedy, Drama, Sport",
-    "score": 8.2,
-    "title": "Club de Cuervos",
-    "url": "https://imdb.com/title/tt4680240/",
-    "votes": 5790
-  },
-  {
-    "date": "2020..2021",
-    "genres": "Comedy, Fantasy, Romance",
-    "score": 8.7,
-    "title": "Mr. Queen",
-    "url": "https://imdb.com/title/tt13400006/",
-    "votes": 5776
-  },
-  {
-    "date": "2007..",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.2,
-    "title": "The 1st Shop of Coffee Prince",
-    "url": "https://imdb.com/title/tt1772685/",
-    "votes": 5759
-  },
-  {
-    "date": "2013..2018",
-    "genres": "Drama",
-    "score": 8.3,
-    "title": "A Place to Call Home",
-    "url": "https://imdb.com/title/tt2258904/",
-    "votes": 5727
-  },
-  {
-    "date": "2017..2020",
-    "genres": "Action, Drama, Fi, Sci",
-    "score": 8.3,
-    "title": "The Cheat",
-    "url": "https://imdb.com/title/tt6456546/",
-    "votes": 5697
-  },
-  {
-    "date": "2005..2022",
-    "genres": "Comedy",
-    "score": 8.5,
-    "title": "Klovn",
-    "url": "https://imdb.com/title/tt0434695/",
-    "votes": 5673
-  },
-  {
-    "date": "2015..2018",
-    "genres": "Comedy, Crime, Drama",
-    "score": 8.0,
-    "title": "No Offence",
-    "url": "https://imdb.com/title/tt3922704/",
-    "votes": 5650
-  },
-  {
-    "date": "2015..",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.4,
-    "title": "Mutlu Ol Yeter",
-    "url": "https://imdb.com/title/tt4574508/",
-    "votes": 5559
-  },
-  {
-    "date": "2017..",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.1,
-    "title": "Because This Is My First Life",
-    "url": "https://imdb.com/title/tt7278588/",
-    "votes": 5518
-  },
-  {
-    "date": "2011..",
-    "genres": "Comedy, Family",
-    "score": 8.6,
-    "title": "Kolah Ghermezi 90",
-    "url": "https://imdb.com/title/tt2344689/",
-    "votes": 5417
-  },
-  {
-    "date": "2009..2022",
-    "genres": "Comedy, Family, History",
-    "score": 8.8,
-    "title": "Horrible Histories",
-    "url": "https://imdb.com/title/tt1400819/",
-    "votes": 5365
-  },
-  {
-    "date": "2023..",
-    "genres": "Crime, Drama, Mystery",
-    "score": 8.2,
-    "title": "Poker Face",
-    "url": "https://imdb.com/title/tt14269590/",
-    "votes": 5352
-  },
-  {
-    "date": "2015..",
-    "genres": "Comedy, Drama, Romance",
-    "score": 8.3,
-    "title": "Kill Me, Heal Me",
-    "url": "https://imdb.com/title/tt4339192/",
-    "votes": 5281
-  },
-  {
-    "date": "2015..2020",
-    "genres": "Action, Adventure, Comedy",
-    "score": 8.2,
-    "title": "The Ministry of Time",
-    "url": "https://imdb.com/title/tt4136774/",
-    "votes": 5154
-  },
-  {
-    "date": "2017..2018",
-    "genres": "Comedy, Fantasy, Horror",
-    "score": 8.0,
-    "title": "A Korean Odyssey",
-    "url": "https://imdb.com/title/tt7099334/",
-    "votes": 5142
-  },
-  {
-    "date": "2010..2017",
-    "genres": "Comedy, Drama",
-    "score": 8.3,
-    "title": "Offspring",
-    "url": "https://imdb.com/title/tt1530541/",
-    "votes": 5111
-  },
-  {
-    "date": "2019..",
-    "genres": "Action, Crime, Drama",
-    "score": 8.7,
-    "title": "Halka",
-    "url": "https://imdb.com/title/tt9471962/",
-    "votes": 5105
-  },
-  {
-    "date": "2019..",
-    "genres": "Comedy, Drama",
-    "score": 8.4,
-    "title": "Upright",
-    "url": "https://imdb.com/title/tt8765446/",
-    "votes": 5096
-  },
-  {
-    "date": "2017..",
-    "genres": "Drama",
-    "score": 8.2,
-    "title": "The Restaurant",
-    "url": "https://imdb.com/title/tt5603140/",
-    "votes": 5064
   }
 ]
