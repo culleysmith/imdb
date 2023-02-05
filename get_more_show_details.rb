@@ -1,8 +1,6 @@
 class GetMoreShowDetails
   attr_reader :show
 
-  ExtendedDetails = Struct.new(*ShowStruct.members, :critic_count, :description, :popularity)
-
   CRITIC_COUNT_PATH = 'span.score'.freeze
   DESCRIPTION_PATH = '[data-testid="plot-l"]'.freeze
   POPULARITY_PATH = '[data-testid="hero-rating-bar__popularity__score"]'.freeze
@@ -16,7 +14,7 @@ class GetMoreShowDetails
   end
 
   def critic_count
-    doc.css(CRITIC_COUNT_PATH).last.text.to_i
+    doc.css(CRITIC_COUNT_PATH)&.last&.text.to_i
   end
 
   def description
@@ -24,7 +22,7 @@ class GetMoreShowDetails
   end
 
   def popularity
-    doc.css(POPULARITY_PATH).first.text.delete(',').to_i
+    doc.css(POPULARITY_PATH)&.first&.text&.delete(',').to_i
   end
 
   def struct
