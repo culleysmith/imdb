@@ -1,7 +1,6 @@
 require_relative 'csv_writer'
 
 ShowStruct = Struct.new(:country, :date, :genres, :score, :title, :url, :votes)
-ShowBrief = Struct.new(:date, :genres, :score, :title, :url, :votes)
 
 class Show
   attr_reader :country, :section

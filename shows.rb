@@ -27,4 +27,4 @@ end.sort_by { |show| [show.votes, show.score] }
 RecentPopularShows = Shows
   .reject do |show|
     show.score < 8.0 || show.votes < 10_000 || !show.date.end.nil? && show.date.last < 2018 || show.genres.any? { |genre| %w[Animation Biography Reality Talk Documentary].include?(genre) }
-  end.map { |show| ShowBrief.new(show.date, show.genres.sort.join(', '), show.score, show.title, show.url, show.votes) }
+  end
