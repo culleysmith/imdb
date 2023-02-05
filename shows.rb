@@ -67,6 +67,6 @@ Popular = CSV.read('recent_popular_shows.csv', headers: true, header_converters:
   SHOWS
 end.join("\n\n")
 
-def show_popular(pry_instance)
+def preview_popular(pry_instance)
   Pry::Pager.new(pry_instance).page(Popular)
 end
