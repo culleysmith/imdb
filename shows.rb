@@ -42,10 +42,11 @@ end.sort_by { |show| [show.votes, show.score] }
 
 RecentPopularShows = Shows
   .reject do |show|
-    show.score < 8.0 || show.votes < 10_000 || !show.date.end.nil? && show.date.last < 2018 || show.genres.any? { |genre| %w[Animation Biography Reality Talk Documentary].include?(genre) }
+    show.score < 8.0 || show.votes < 2_000 || !show.date.end.nil? && show.date.last < 2019 || show.genres.any? { |genre| %w[Animation Biography Reality Talk Documentary].include?(genre) }
   end
 
-Popular = CSV.read('recent_popular_shows.csv', headers: true, header_converters: :symbol).map do |row|
+Popular = CSV.read('recent_popular_shows.csv', headers: true, header_converters: :symbol)
+  .reject { |row| row[:score].to_f < 8.0 || row[:critic_count].to_i <= 2 }.map do |row|
     description = ShowsHelper.format_description(row[:description])
     date = ShowsHelper.date_range(row[:dates])
     genres = ShowsHelper.genres(row[:genres]).join(', ')
